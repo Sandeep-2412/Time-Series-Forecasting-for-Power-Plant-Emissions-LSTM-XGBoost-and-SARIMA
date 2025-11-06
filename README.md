@@ -1,9 +1,6 @@
 # Time Series Forecasting for Power Plant Emissions  
 ### LSTM • XGBoost • SARIMA
 
-This repository accompanies the article:  
-**“Time Series Forecasting for Power Plant Emissions: LSTM, XGBoost, and SARIMA”**  
-by *Kyle T. Jones* — https://medium.com/@kyle-t-jones/time-series-forecasting-for-power-plant-emissions-lstm-xgboost-and-sarima-5b69867faa86
 
 The goal of this project is to evaluate forecasting models on U.S. power-plant CO₂ emissions using 27+ years of national emissions data.
 
