@@ -6,6 +6,7 @@ The goal of this project is to evaluate forecasting models on U.S. power-plant C
 Predicting future emissions from power plants isn’t just an academic exercise — it’s critical for climate policy, regulatory compliance, and grid planning. With 27 years of EPA eGRID data covering every power plant in the United States, we can build sophisticated models to forecast CO2 emissions through 2030.
 
 But which forecasting method works best? Should you use deep learning LSTMs, gradient boosting with XGBoost, or classical statistical SARIMA models? This article compares all three approaches using real-world data from 108,000+ plant-year observations.
+
 ---
 
 ## 📌 Motivation
