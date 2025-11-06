@@ -53,5 +53,3 @@ The dataset shows:
 
 ---
 
-## 🔍 Project Structure
-
